@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="play.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="play0000" x="0" y="0" width="800" height="600" frameX="-92" frameY="-67" frameWidth="1096" frameHeight="869"/>
+	<SubTexture name="play0001" x="800" y="0" width="900" height="675" frameX="-61" frameY="-48" frameWidth="1096" frameHeight="869"/>
+	<SubTexture name="play0002" x="1700" y="0" width="1036" height="788" frameX="-19" frameY="-20" frameWidth="1096" frameHeight="869"/>
+	<SubTexture name="play0003" x="2736" y="0" width="1096" height="869"/>
+	<SubTexture name="play selected0000" x="0" y="869" width="800" height="600"/>
+</TextureAtlas>

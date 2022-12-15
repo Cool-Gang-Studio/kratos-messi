@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-156,
+				107
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-155,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-160,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "nerd",
+			"loop": false,
+			"name": "nerdzioch.png"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kratos_messi",
+	"position": [
+		60,
+		470
+	],
+	"healthicon": "kratosmessi",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		254,
+		252
+	],
+	"camera_position": [
+		90,
+		-180
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}
